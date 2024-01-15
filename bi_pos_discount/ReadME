@@ -1,0 +1,16 @@
+16.0.0.1 ==>Solved traceback error while print sale details report in pos.
+
+Version 16.0.0.2 : (09/01/23)
+   -- Update the code of discount for account move.
+
+Version 16.0.0.3 : (18/01/23)
+   -- fixed the issue of open sale order from backend
+
+Version 16.0.0.4 : (19/05/23)
+   -- When we refund order at that time get an issue fixed that issue.
+
+Version 16.0.0.5 : (23/05/23)
+   *- When i added 4,5 or more orderlines then after i can not selected any other orderline.
+
+Version 16.0.0.6 : (25/05/23)
+   *- When i added orderline and the discount type is fixed that time if i have to add discount on minus it is added. (now fixed)
